@@ -1,8 +1,11 @@
 ident
 #8
 sphere
-150 350 0 75
+100 350 0 75
 sphere
-150 200 0 75
+100 200 0 75
+#0
+torus
+275 275 0 30 150
 apply
 display
