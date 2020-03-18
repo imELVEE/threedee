@@ -19,3 +19,5 @@ move
 50 30 0
 apply
 display
+save
+pic.png
