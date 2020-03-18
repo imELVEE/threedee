@@ -112,6 +112,9 @@ def parse_file( fname, edges, transform, screen, color ):
         elif line == 'box':
             add_box(edges, float(args[0]), float(args[1]), float(args[2]), float(args[3]), float(args[4]), float(args[5]))
 
+        if line == 'sphere':
+            add_sphere(edges, float(args[0]), float(args[1]), float(args[2]), float(args[3]), step)
+
         elif line == 'ident':
             ident(transform)
 
