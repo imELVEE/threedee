@@ -16,6 +16,6 @@ x 30
 rotate
 y -20
 move
-80 30 0
+50 30 0
 apply
 display
