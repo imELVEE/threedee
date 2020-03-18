@@ -11,5 +11,9 @@ box
 385 115 0 30 30 30
 box
 85 115 0 30 30 30
+rotate
+x 30
+rotate
+y -20
 apply
 display
