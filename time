@@ -6,6 +6,8 @@ sphere
 100 200 0 75
 #0
 torus
-275 275 0 30 150
+275 275 0 30 90
+rotate
+y 90
 apply
 display
